@@ -1,4 +1,4 @@
-﻿A practice from Ulearn
+An Ulearn course practice [Reflection]
 
 Work in Specifier.cs
 Realize methods, returning structed description of class' methods, focusing on atributes, by which that class is marked
